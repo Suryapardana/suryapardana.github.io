@@ -1,1 +1,195 @@
-var _0x12de=['evening,','parentNode','ontouchmove','scale','DIV','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','getMinutes','Good\x20','now','heart','afternoon,','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','setAttribute','insertBefore','ontouchend','random','sore','top','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','querySelector','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','pageY','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','innerHTML','offsetTop','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','time','transform','bound','getElementById','ontouchstart','getHours','pagi','push','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','classList','background','floor','offsetLeft','night,','sin','onmousedown','round','direction','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','getSeconds','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','onmouseup','add','length','style','touches','splice','\x20Dellaku','quo','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','body','left','board','Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga','createElement'];(function(_0x1afc38,_0x12de41){var _0x5e7930=function(_0x20ecbf){while(--_0x20ecbf){_0x1afc38['push'](_0x1afc38['shift']());}};_0x5e7930(++_0x12de41);}(_0x12de,0xd5));var _0x5e79=function(_0x1afc38,_0x12de41){_0x1afc38=_0x1afc38-0x0;var _0x5e7930=_0x12de[_0x1afc38];return _0x5e7930;};let i=0x0;let name=_0x5e79('0x27');let gud=_0x5e79('0x36');let pagi=gud+'morning,'+name;let siang=gud+_0x5e79('0x39')+name;let malam=gud+_0x5e79('0x2f')+name;let malem=gud+_0x5e79('0x19')+name;function startTime(){var _0x1bf525=new Date();var _0x1cf455=document[_0x5e79('0x3')]('#jam');var _0x57db93=_0x1bf525[_0x5e79('0x11')]();var _0xe1b44=_0x1bf525[_0x5e79('0x35')]();var _0x3eb2a3=_0x1bf525[_0x5e79('0x1f')]();_0xe1b44=checkTime(_0xe1b44);_0x3eb2a3=checkTime(_0x3eb2a3);_0x1cf455['innerHTML']=_0x57db93+':'+_0xe1b44+':'+_0x3eb2a3;var _0x32c63b=setTimeout(startTime,0x1f4);}function checkTime(_0x1cd7fe){if(_0x1cd7fe<0xa){_0x1cd7fe='0'+_0x1cd7fe;};return _0x1cd7fe;}function randQuo(){var _0x5391e4=[_0x5e79('0x20'),_0x5e79('0x6'),_0x5e79('0x1e'),_0x5e79('0x3a'),_0x5e79('0xb'),_0x5e79('0x7'),_0x5e79('0x2'),_0x5e79('0x14'),_0x5e79('0x2d'),_0x5e79('0x3b'),_0x5e79('0x3c'),'Go\x20Della,\x20Semangat\x20Terus\x20Ya\x20Jangan\x20Gampang\x20Menyerah\x20Sayang\x20Aku\x20Tahu\x20Kamu\x20Pasti\x20Tidak\x20Mengecewakan\x20Aku\x20Sayang\x20I\x20Love\x20You\x20-Angga',_0x5e79('0x29'),_0x5e79('0x34'),_0x5e79('0x8'),_0x5e79('0x4')];document[_0x5e79('0xf')](_0x5e79('0x28'))[_0x5e79('0x9')]=_0x5391e4[Math[_0x5e79('0x17')](Math[_0x5e79('0x40')]()*_0x5391e4[_0x5e79('0x23')])];}function jamS(){var _0x511079=document[_0x5e79('0x3')]('#teks');var _0x31f714=document[_0x5e79('0xf')](_0x5e79('0x16'));var _0x55cebb=document['body'][_0x5e79('0x24')]['backgroundColor'];var _0x4680db=new Date();if(_0x4680db['getHours']()<0xc){_0x511079[_0x5e79('0x9')]=pagi;_0x55cebb=_0x31f714['classList'][_0x5e79('0x22')](_0x5e79('0x12'));}else if(_0x4680db[_0x5e79('0x11')]()>=0xc&&_0x4680db['getHours']()<=0xf){_0x511079[_0x5e79('0x9')]=siang;_0x55cebb=_0x31f714[_0x5e79('0x15')][_0x5e79('0x22')]('siang');}else if(_0x4680db[_0x5e79('0x11')]()>0xf&&_0x4680db[_0x5e79('0x11')]()<0x13){_0x511079[_0x5e79('0x9')]=siang;_0x55cebb=_0x31f714['classList'][_0x5e79('0x22')](_0x5e79('0x0'));}else if(_0x4680db[_0x5e79('0x11')]()>=0x13&&_0x4680db[_0x5e79('0x11')]()<=0x18){_0x511079[_0x5e79('0x9')]=malam;_0x55cebb=_0x31f714['classList'][_0x5e79('0x22')]('malam');}else{_0x55cebb=_0x31f714[_0x5e79('0x15')][_0x5e79('0x22')]('malam');}}var brd=document['createElement'](_0x5e79('0x33'));document[_0x5e79('0x2a')][_0x5e79('0x3e')](brd,document['getElementById'](_0x5e79('0x2c')));const duration=0xbb8;const speed=0.5;const cursorXOffset=0x0;const cursorYOffset=-0x5;var hearts=[];function generateHeart(_0x5ee5b1,_0xaac72d,_0x2a7b5c,_0x16acf4,_0x1bda2d){var _0x3a0747=document[_0x5e79('0x2e')]('DIV');_0x3a0747[_0x5e79('0x3d')]('class',_0x5e79('0x38'));brd['appendChild'](_0x3a0747);_0x3a0747[_0x5e79('0xc')]=duration;_0x3a0747['x']=_0x5ee5b1;_0x3a0747['y']=_0xaac72d;_0x3a0747[_0x5e79('0xe')]=_0x2a7b5c;_0x3a0747[_0x5e79('0x1d')]=_0x16acf4;_0x3a0747[_0x5e79('0x24')][_0x5e79('0x2b')]=_0x3a0747['x']+'px';_0x3a0747[_0x5e79('0x24')][_0x5e79('0x1')]=_0x3a0747['y']+'px';_0x3a0747[_0x5e79('0x32')]=_0x1bda2d;_0x3a0747[_0x5e79('0x24')][_0x5e79('0xd')]='scale('+_0x1bda2d+','+_0x1bda2d+')';if(hearts==null)hearts=[];hearts[_0x5e79('0x13')](_0x3a0747);return _0x3a0747;}var down=![];var event=null;document[_0x5e79('0x1b')]=function(_0x2a86f7){down=!![];event=_0x2a86f7;};document[_0x5e79('0x21')]=function(_0x480add){down=![];};document['onmousemove']=function(_0x1dce19){event=_0x1dce19;};document[_0x5e79('0x10')]=function(_0x21834b){down=!![];event=_0x21834b[_0x5e79('0x25')][0x0];};document[_0x5e79('0x3f')]=function(_0x17a460){down=![];};document[_0x5e79('0x31')]=function(_0xc4c05e){event=_0xc4c05e[_0x5e79('0x25')][0x0];};var before=Date['now']();var id=setInterval(frame,0x5);var gr=setInterval(check,0x64);function frame(){var _0x35d854=Date[_0x5e79('0x37')]();var _0x46f75b=_0x35d854-before;before=_0x35d854;for(i in hearts){var _0x530341=hearts[i];_0x530341[_0x5e79('0xc')]-=_0x46f75b;if(_0x530341[_0x5e79('0xc')]>0x0){_0x530341['y']-=speed;_0x530341[_0x5e79('0x24')][_0x5e79('0x1')]=_0x530341['y']+'px';_0x530341[_0x5e79('0x24')]['left']=_0x530341['x']+_0x530341[_0x5e79('0x1d')]*_0x530341[_0x5e79('0xe')]*Math[_0x5e79('0x1a')](_0x530341['y']*_0x530341[_0x5e79('0x32')]/0x1e)/_0x530341['y']*0xc8+'px';}else{_0x530341[_0x5e79('0x30')]['removeChild'](_0x530341);hearts[_0x5e79('0x26')](i,0x1);}}}function check(){if(down){var _0x5e7601=0x1-Math[_0x5e79('0x1c')](Math[_0x5e79('0x40')]())*0x2;var _0x49f3a9=Math[_0x5e79('0x40')]()*Math[_0x5e79('0x40')]()*0.8+0.2;var _0x4ae6f5=0x1e+Math[_0x5e79('0x40')]()*0x14;generateHeart(event['pageX']-brd[_0x5e79('0x18')]+cursorXOffset,event[_0x5e79('0x5')]-brd[_0x5e79('0xa')]+cursorYOffset,_0x4ae6f5,_0x5e7601,_0x49f3a9);}}
+let i = 0;
+let n = ' Piyooo';
+let g = 'Good ';
+
+let pagi = g + 'morning,' + n;
+let siang = g + 'afternoon,' + n;
+let malam = g + 'evening,' + n;
+let malem = g + 'night,' + n;
+
+//DOM elements
+let showTeks = document.querySelector('.teks');
+let showJam = document.querySelector('.jam');
+let random = document.querySelector('.quo');
+let element = document.querySelector("#background")
+let showBg = document.body.style.backgroundColor;
+
+//Quotes alay
+const texts = [
+
+    "Jika saatnya tiba, sedih akan menjadi tawa, perih akan menjadi cerita, kenangan akan menjadi guru, rindu akan menjadi temu, kau dan aku akan menjadi kita.",
+    "Cinta selalu saja misterius. Jangan diburu-buru, atau kau akan merusak jalan ceritanya sendiri.",
+    "Rindu tidak menuntut banyak hal. Ia hanya mengharapkan kabar dan pertemuan.",
+    "Yang patah tumbuh, yang hilang berganti.",
+    "Bukankah hidup ini sebetulnya mudah? Jika rindu, datangi. Jika tidak senang, ungkapkan. Jika cemburu, tekankan. Jika lapar, makan. Jika mulas, buang air. Jika salah, betulkan. Jika suka, nyatakan. Jika sayang, tunjukkan. Manusianya yang sering kali mempersulit segala sesuatu. Ego mencegah seseorang mengucap \"Aku membutuhkanmu\".",
+    "Beberapa rindu memang harus sembunyi-sembunyi. Bukan untuk disampaikan, hanya untuk dikirimkan lewat doa.",
+    "Hujan dan kamu adalah rindu.Kita akan menikmatinya dalam senja-senja beranjak pulang. Dalam rasa sayang yang tak akan pernah hilang. Bahkan saat hujan telah berhenti.",
+    "Saat lantunan rindu adalah alasan setiap pertemuan.",
+    "Sungguh rindu membuat kebodohan terasa begitu cerdas.",
+    "Kesalahanku, menjadikanmu alasan segala rindu.",
+    "Jika panas, keringkan lukamu. Jika hujan, nikmati rindu. Jika gelap, biarkan harapan menuntumu. Mentari akan selalu terbit, juga senyumanmu.",
+    "Mungkin seseorang masih tak tahu lirih perih dalam rintik rindu ini. Selamat malam, kamu yang berlalu dalam gerimis.",
+    "Jika nanti, semesta bercanda dan mempertemukan kita lagi. Segeralah menghindar, sebab bagiku kamu tidak lagi sesuatu yang menarik meski rindu tak sepenuhnya memudar.",
+    "Kalau sampai rindu, aku tidak akan bilang-bilang, aku akan datang. Tidak ada yang berat, selama hati kita masih erat.",
+    "Jika kau percaya hujan adalah satu persen air, sembilan puluh sembilan persen kenangan, ya silakan. Kalau aku percaya hujan seratus persen adalah rindu, itu urusanku.",
+    "Lucu, kita membentuk pola pikir anak kecil agar tumbuh menjadi seperti kita. Padahal, diam-diam kita rindu menjadi anak kecil lagi."
+    
+];
+
+//Initialize
+function init() {
+    startTime();
+    randQuo();
+	jamS();
+}
+
+//Show clock
+function startTime() {
+
+    var today = new Date();
+    var h = today.getHours();
+    var m = today.getMinutes();
+	var s = today.getSeconds();
+	
+    m = checkTime(m);
+	s = checkTime(s);
+	
+    showJam.innerHTML = h + ":" + m + ":" + s;
+	var t = setTimeout(startTime, 500);
+	
+  }
+
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};
+	return i;
+	
+  }
+
+  //Show random quote
+  function randQuo() {
+
+    random.innerHTML = texts[Math.floor(Math.random()*texts.length)]
+
+  }
+
+  //Show clock
+  function jamS() {
+	
+    var myDate = new Date();
+	var hourNow = myDate.getHours();
+	
+    if (hourNow < 12) {
+      showTeks.innerHTML = pagi;
+      showBg = element.classList.add("pagi");
+    } else if (hourNow >= 12 && hourNow <= 15) {
+	  showTeks.innerHTML = siang;
+	  showBg = element.classList.add("siang");
+    } else if (hourNow > 15 && hourNow < 19) {
+      showTeks.innerHTML = siang;
+      showBg = element.classList.add("sore");
+    } else if ( hourNow >= 19 && hourNow <= 24){
+      showTeks.innerHTML = malam;
+      showBg = element.classList.add("malam");
+    } else {
+	  showBg = element.classList.add("malam");
+    }
+  }
+
+  var brd = document.createElement("DIV");
+		document.body.insertBefore(brd, document.getElementById("board"));
+
+		const duration = 3000;
+		const speed = 0.5;
+		const cursorXOffset = 0;
+		const cursorYOffset = -5;
+
+		var hearts = [];
+        
+    //Generate heart effect
+	function generateHeart(x, y, xBound, xStart, scale) {
+        
+        var heart = document.createElement("DIV");
+		heart.setAttribute('class', 'heart');
+		brd.appendChild(heart);
+		heart.time = duration;
+		heart.x = x;
+		heart.y = y;
+		heart.bound = xBound;
+		heart.direction = xStart;
+		heart.style.left = heart.x + "px";
+		heart.style.top = heart.y + "px";
+		heart.scale = scale;
+        heart.style.transform = "scale(" + scale + "," + scale + ")";
+        
+		if(hearts == null)
+				hearts = [];
+			hearts.push(heart);
+			return heart;
+		}
+
+		var down = false;
+		var event = null;
+
+		document.onmousedown = function(e) {
+			down = true;
+			event = e;
+		}
+
+		document.onmouseup = function(e) {
+			down = false;
+		}
+
+		document.onmousemove = function(e) {
+			event = e;
+		}
+
+		document.ontouchstart = function(e) {
+			down = true;
+			event = e.touches[0];
+		}
+
+		document.ontouchend = function(e) {
+			down = false;
+		}
+
+		document.ontouchmove = function(e) {
+			event = e.touches[0];
+		}
+
+		var before = Date.now();
+		var id = setInterval(frame, 5);
+		var gr = setInterval(check, 100);
+
+		function frame() {
+
+			var current = Date.now();
+			var deltaTime = current - before;
+			before = current;
+			for(i in hearts) {
+				var heart = hearts[i];
+				heart.time -= deltaTime;
+				if(heart.time > 0)
+				{
+					heart.y -= speed;
+					heart.style.top = heart.y + "px";
+					heart.style.left = heart.x + heart.direction * heart.bound * Math.sin(heart.y * heart.scale / 30) / heart.y * 200 + "px";
+				}
+				else
+				{
+					heart.parentNode.removeChild(heart);
+					hearts.splice(i, 1);
+				}
+			}
+		}
+
+		function check() {
+            
+            if(down) {
+                
+                var start = 1 - Math.round(Math.random()) * 2;
+				var scale = Math.random() * Math.random() * 0.8 + 0.2;
+                var bound = 30 + Math.random() * 20;
+                generateHeart(event.pageX - brd.offsetLeft + cursorXOffset, event.pageY - brd.offsetTop + cursorYOffset, bound, start, scale);
+
+			}
+		}
